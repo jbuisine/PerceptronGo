@@ -3,6 +3,10 @@
 *.a
 *.so
 
+main
+perceptron
+.idea
+
 # Folders
 _obj
 _test
